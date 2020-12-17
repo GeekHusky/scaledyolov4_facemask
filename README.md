@@ -1,3 +1,1 @@
-# yolotinyv3_medmask_demo
-
-Helper repo to train tiny yolo v3 on custom data in google colaboratory notebook
+Helper repo to scaled yolov4 on custom data in google colaboratory notebook
